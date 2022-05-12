@@ -16,13 +16,15 @@ body {
     align-items: center;
 }
 
+
+
 h1 {
     color: #222;
     font-size: 3rem;
     margin-bottom: 3rem;
 }
 
-botton {
+button {
     background-color: #222;
     color: #fff; 
     padding: 1rem 1.5rem ;
